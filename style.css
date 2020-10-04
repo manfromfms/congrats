@@ -1,0 +1,9 @@
+.1block {
+    width: 100%;
+    border: 10px solid;
+}
+
+a {
+    display: block;
+    font: 200% serif;
+}
